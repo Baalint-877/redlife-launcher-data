@@ -257,7 +257,7 @@
       "[Új] Jármű 1,2,3,4 kereke defektet kap akkor mindegyikre külön script alkalmazkodik / 2nél lefullad de inditható 3-nal / 4-nél végleges fulladást okozhat.",
       "[Új] /stats Parancs írja ha sérült a járműved, írja ha defektes a járműved / mennyi.",
       "[Új] Kamat rendszer.",
-      "[Új] Minden utalás útán adót von le a szerver, az a polgármesteri frakció széfbe kerül, mint minden adózási lehetőségnél.",
+      "[Új] Minden utalás útán adót von le a szerver, az a polgármesteri frakció széfbe kerül, mint minden adózási lehetőségnél."
     ]
   },
   {
@@ -268,7 +268,7 @@
       "[Új] Paintball rendszer teljesen áttdolgozva!",
       "[Új] Adminisztrátoroknak (/fly) parancs, ha beírja a parancsot tud repülni a mappon, az anticheat nem dobja ki, adminokat fly használata közben.",
       "[Új] Adminisztrátoroknak a (/aszoli) parancs használatakor már nem oda dob vissza ahol beléptél,  ahol kilépsz ott is maradsz!",
-      "[Új] Mostantol sem autokereskedésben, sem máshol nem tudsz minuszba menni, a rendszer automatikusan észleli a vagyonod!",
+      "[Új] Mostantol sem autokereskedésben, sem máshol nem tudsz minuszba menni, a rendszer automatikusan észleli a vagyonod!"
     ]
   },
   {
