@@ -1,8 +1,13 @@
 [
   {
-    "date": "2026-09-27",
-    "title": "Launcher frissítés",
-    "text": "Új animációk, gyorsabb csatlakozás.",
-    "image": "https://redliferpg.hu/images/launcher.jpg"
+    "date": "2026-09-20",
+    "title": "Üdv a RedLife RPG launcherében",
+    "text": "A launcher készen áll. Add meg a GTA San Andreas útvonalát a Beállítások panelen, majd csatlakozz a szerverre.",
+    "image": "assets/news/welcome.jpg"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Hírek a saját szerveredről",
+    "text": "Ez egy minta hír. A data/news.json fájlt szerkesztheted, vagy a config/launcher.json-ban megadhatsz egy https címet, ahonnan a launcher a híreket tölti."
   }
 ]
