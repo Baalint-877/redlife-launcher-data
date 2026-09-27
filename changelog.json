@@ -1,9 +1,25 @@
 [
   {
-    "version": "1.0.0",
+    "version": "1.1.0",
+    "date": "2026-09-21",
+    "title": "Megújult design",
     "changes": [
-      "[Új] Launcher kiadva",
-      "Javítva: csatlakozás késleltetés"
+      "[Új] Teljesen új, animált felület sötét, világos és kontrasztos témával",
+      "[Új] Bővített Beállítások: felbontás, teljes képernyő, Max FPS és rendszerindításkori automatikus indítás",
+      "[Új] Changelog oldal a szerveren történt változások követésére",
+      "Változás: A navigáció felülre került, Főmenü / Hírek / Changelog fülekkel",
+      "[Új] Asztali értesítések új hírekről, és kicsinyítés a tálcára bezáráskor",
+      "Javítva: A csatlakozás mostantól a helyes szerverportra megy"
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "date": "2026-09-14",
+    "title": "Első kiadás",
+    "changes": [
+      "Csatlakozás a RedLife RPG szerverhez",
+      "Élő szerverállapot (játékosszám, ping)",
+      "Hírek és launcher-frissítés"
     ]
   }
 ]
