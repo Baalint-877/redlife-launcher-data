@@ -1,5 +1,6 @@
 {
-  "latest": "1.0.0",
-  "download": "https://raw.githubusercontent.com/eazzy/redlife-launcher-data/main/RedLifeRPG-Launcher-Setup.exe",
-  "notes": "Első kiadás"
+  "version": "1.0.0",
+  "url": "https://example.com/RedLifeRPG-Launcher-Setup-1.0.0.exe",
+  "notes": "",
+  "sha256": ""
 }
