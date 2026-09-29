@@ -1,5 +1,34 @@
 [
   {
+    "version": "1.2.0",
+    "date": "2026-09-18",
+    "title": "RedLife Changelog",
+    "changes": [
+      "[Új] Dilimore-i benzinkút mappolás.",
+      "[Új] Kamionos telephely mappolás.",
+      "Változás: Taxi telephely és műhely átdolgozása.",
+      "[Új] Nagyapó Étterme mappolás.",
+      "Változás:Szerelőtelep mappolás átdolgozása.",
+      "[Új] Kamionos munka: Kamionos Józsi NPC, konténer-, benzin- és áruszállítás.",
+      "[Új] Utcaseprő munka: városházi felvétel, útvonalak, munkajármű és munka leadása.",
+      "[Új] Éttermi kajafutár munka és a rendelésfelvételi folyamat módosítása.",
+      "[Új] Legális frakciók: vezetői panel, tagok felvétele és kirúgása, elérhető tagok listája.",
+      "[Új] Frakciószéfek és szekrények: tárgyak és járműkulcsok berakása, kivétele.",
+      "[Új] Bandák és maffiák külön kezelése: keresőpanel, vezetői műveletek, interiorajtók és széfek.",
+      "Változás: Banda- és maffiajárművek és egyéb modósítások.",
+      "[Új] Bérházak: ajtók, büfé, zene, szekrény és a hátralévő bérleti idő javítása.",
+      "[Új] Járműkulcsok kezelése és átadása; a kulcs nélküli indítás visszajelzése javítva.",
+      "[Új] /zseb és /inv közös tárgykezelő felület.",
+      "[Új] Kuka rendszer:  kukázás /kukázás parancs, amit kidobsz 2napig benne marad, de bárki kikukázhat akkármit.",
+      "[Új] A kukák 30 percenként frissülnek. Található bennük üres flakon, nyersvas, fémhulladék, üres konzervdoboz és szakadt kábel ( késöbb több illegális tárgy is hozzá kerül )",
+      "[Új] Betöltőpanel: mappolások, járművek, kukák, NPC-k és tárolt tárgyak számlálása és egyebek.",
+      "[Új] Kis film bevezető!",
+      "Javítás: /ah és /segit parancslisták bővítése, több RedLife-előtagos magyar visszajelzés.",
+      "Változás: AFK-üzenetek [REDLIFE-AFK] előtaggal.",
+      "Változás: Adminrang-visszajelzések módosítása."
+    ]
+  },
+  {
     "version": "1.0.10",
     "date": "2026-09-18",
     "title": "RedLife Changelog",
