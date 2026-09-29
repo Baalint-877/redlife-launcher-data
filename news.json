@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-29",
+    "title": "RedLifeRPG Launcher v1.0.1 - By: Baalint",
+    "text": "Megjelent a RedLifeRPG launcher 1.0.1 verziója. Kisebb hibajavítások és Discord RPC rendszerrel bővült a kliensünk.",
+    "image": "https://raw.githubusercontent.com/Baalint-877/redlife-launcher-data/main/images/news-2.png"
+  },
+  {
     "date": "2026-09-27",
     "title": "RedLifeRPG Launcher - By: Baalint",
     "text": "Megjelent a RedLifeRPG launcher 1.0.0 verziója. A rendszer mostantól stabilan használható, és minden alapfunkció elérhető.",
