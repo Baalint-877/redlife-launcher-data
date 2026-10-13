@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-13",
+    "title": "RedLifeRPG Launcher v1.0.5 - By: Baalint",
+    "text": "Megjelent a RedLifeRPG launcher 1.0.5 verziója. Az új frissítés kisebb hibajavítások és optimalizációs csomagot tartalmaz. Ezek mellett kapott egy új eseménynaptár funkciót.",
+    "image": "https://raw.githubusercontent.com/Baalint-877/redlife-launcher-data/main/images/news-4.png"
+  },
+  {
     "date": "2026-10-02",
     "title": "RedLifeRPG Launcher v1.0.2 - By: Baalint",
     "text": "Megjelent a RedLifeRPG launcher 1.0.2 verziója. Az új frissítés játékidő-statisztikát ad a launcherhez, amely megjeleníti az összes és heti játékidőt.",
